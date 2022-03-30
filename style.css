@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+}
+
+input {
+    height: 44px;
+    width: 150px;
+    margin-top: 10px;
+    background-color: black;
+    color: beige;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#tableau {
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    width: 90%;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+#reset {
+    display: none;
+    
+}
